@@ -1,2 +1,2 @@
-# devonshireappraisals
+# devonshireappraisals.com
 a website for a local land appraiser named Nyal Hope. @ devonshireappraisals.com
